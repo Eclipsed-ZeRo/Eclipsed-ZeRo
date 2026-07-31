@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Eclipsed-ZeRo
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Python
+# ZeRo
 
-<!---
-Eclipsed-ZeRo/Eclipsed-ZeRo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> "Support isn't a role. It's a mindset."
+
+🎮 League Support Main  
+⚔️ Akame is best girl  
+🗾 Japan lover  
+🤖 AI-assisted app & tool developer
